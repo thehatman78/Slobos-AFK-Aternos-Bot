@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Japhethroysun.aternos.me",
-    "port": 48237,
-    "version": "26.1.2",
+    "ip": "thehatman78.mcsh.io",
+    "port": 25565,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
