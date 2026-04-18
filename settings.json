@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Japhethroysun.aternos.me:48237",
+    "ip": "marblefish.aternos.host:48237",
     "port": 48237,
     "version": "",
     "try-creative": false
