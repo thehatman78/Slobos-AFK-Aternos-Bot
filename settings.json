@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Japhethroysun.aternos.me",
+    "ip": "flagtail.aternos.host",
     "port": 48237,
     "version": "26.1.2",
     "try-creative": false
