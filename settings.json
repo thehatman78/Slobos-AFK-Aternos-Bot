@@ -2,11 +2,11 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "123456789",
-    "password": "",
+    "password": "Japhethroysun.aternos.me:48237",
     "type": "offline"
   },
   "server": {
-    "ip": "marblefish.aternos.host:48237",
+    "ip": "",
     "port": 48237,
     "version": "",
     "try-creative": false
